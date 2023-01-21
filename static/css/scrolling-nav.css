@@ -1,0 +1,29 @@
+
+header {
+  padding: 156px 0 100px;
+}
+
+section {
+  padding: 150px 0;
+}
+
+
+.design{
+  padding-top: 130px;
+  padding-bottom: 130px;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: red;
+  color: white;
+  text-align: center;
+}
+
+.iplabel{
+
+  font-size: 34px;
+}
